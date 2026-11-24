@@ -23,8 +23,8 @@ An open-source reference guide and automation scripts to transform an Ubuntu / G
 Clone the repository and run the setup script:
 
 ```bash
-git clone https://github.com/GauravPatil2515/gnome-macos-aesthetic.git
-cd gnome-macos-aesthetic
+git clone https://github.com/GauravPatil2515/gnome-desktop-customization.git
+cd gnome-desktop-customization
 chmod +x install.sh
 ./install.sh
 ```
