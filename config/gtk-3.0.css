@@ -1,0 +1,8 @@
+/* Custom smooth window corners */
+decoration {
+  border-radius: 16px;
+}
+
+window.background.csd decoration {
+  border-radius: 16px;
+}
